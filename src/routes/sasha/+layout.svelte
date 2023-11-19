@@ -21,6 +21,8 @@
   // });
 </script>
 
+<svelte:document />
+
 <main class="container z-10 select-none">
   <slot />
 </main>

@@ -12,6 +12,10 @@ const config = {
         julius: ["Julius Sans One", "sans-serif"],
         jura: ["Jura", "sans-serif"],
       },
+      text: {
+        heading: "100rem",
+        subheading: "50rem",
+      },
     },
   },
 
